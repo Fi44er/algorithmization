@@ -1,0 +1,7 @@
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\bin\Debug\practical_2.exe.config
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\bin\Debug\practical_2.exe
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\bin\Debug\practical_2.pdb
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\obj\Debug\practical_2.1.csproj.AssemblyReference.cache
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\obj\Debug\practical_2.1.csproj.CoreCompileInputs.cache
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\obj\Debug\practical_2.exe
+C:\Users\malug\source\repos\algorithmization\practical_2\practical_2\obj\Debug\practical_2.pdb
