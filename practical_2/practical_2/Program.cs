@@ -11,6 +11,8 @@ namespace practical_2
         static void Main(string[] args)
         {
             Console.WriteLine(Convert.ToInt32(Console.ReadLine(), 2));
+
+            Console.WriteLine(Convert.ToString(Console.ReadLine()), 02);
             Console.ReadKey();
         }
     }
