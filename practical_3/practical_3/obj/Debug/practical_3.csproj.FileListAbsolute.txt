@@ -1,0 +1,9 @@
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\bin\Debug\practical_3.exe.config
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\bin\Debug\practical_3.exe
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\bin\Debug\practical_3.pdb
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\obj\Debug\practical_3.csproj.AssemblyReference.cache
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\obj\Debug\practical_3.csproj.CoreCompileInputs.cache
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\obj\Debug\practical_3.exe
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\obj\Debug\practical_3.pdb
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\bin\Debug\Flee.dll
+C:\Users\malug\source\repos\algorithmization\practical_3\practical_3\obj\Debug\practical_3.csproj.CopyComplete
